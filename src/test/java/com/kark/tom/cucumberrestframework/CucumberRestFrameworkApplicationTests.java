@@ -1,0 +1,13 @@
+package com.kark.tom.cucumberrestframework;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CucumberRestFrameworkApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
